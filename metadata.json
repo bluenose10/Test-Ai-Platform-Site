@@ -1,0 +1,6 @@
+{
+  "name": "Consultancy AI",
+  "description": "A professional business website for a consultancy firm featuring a custom AI Assistant widget.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
