@@ -13,7 +13,7 @@ async function startServer() {
     try {
       // Hardcoded to the user's requested production deployment URL to avoid
       // stale AI Studio environment variables from picking up temporary Vercel URLs
-      const apiUrl = "https://smithco-evallab3-q8u4.vercel.app/api/public/chat";
+      const apiUrl = "https://ai-eval-platform-smoky.vercel.app/api/public/chat";
       const apiKey = process.env.NEXT_PUBLIC_EVAL_LIVE_KEY || process.env.VITE_EVAL_LIVE_KEY || req.body.apiKey;
       const { question } = req.body;
 

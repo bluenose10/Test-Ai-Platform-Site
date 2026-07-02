@@ -4,7 +4,7 @@
 
 [[redirects]]
   from = "/api/chat"
-  to = "https://smithco-evallab3-q8u4.vercel.app/api/public/chat"
+  to = "https://ai-eval-platform-smoky.vercel.app/api/public/chat"
   status = 200
   force = true
 
